@@ -1,7 +1,5 @@
 # Download Instagram Photos/Videos
 
----
-
 ### description:
 You can use **this bookmarklet** to download Instagram's photos and movies just click.  
 
