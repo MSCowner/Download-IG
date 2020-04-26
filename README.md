@@ -1,7 +1,11 @@
 # Download Instagram Photos/Videos
 
+---
+
 ### description:
 You can use **this bookmarklet** to download Instagram's photos and movies just click.  
+
+---
 
 ### Usage:  
 
@@ -17,6 +21,10 @@ You can use **this bookmarklet** to download Instagram's photos and movies just 
 
 That's it.  
 
+---
+
 Javascript can't control another tabs, so that it's not able to download all post at just one click.
 
-###### *The latest version is: V2.2.*
+---
+
+###### **The latest version is: *V2.2***
