@@ -17,11 +17,17 @@ You can use **this bookmarklet** to download Instagram's photos and movies just 
 
 5. Click **it** again to download the photo.
 
+Simply speaking, double click.
+
 That's it.  
 
 ---
 
-Javascript can't control another tabs, so that it's not able to download all post at just one click.
+### Bugs:
+
+1. Javascript can't control another tabs, so that do anything just one click is impossible.
+
+2. You should give it a rest between click, otherwise it will open something wrong.
 
 ---
 
