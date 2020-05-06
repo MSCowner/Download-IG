@@ -1,4 +1,10 @@
 javascript:;
+
+/*Versino: V.2.2.
+	Author: chiouc.
+	Description: open photos and download it.
+	From: Github
+*/
 var post = document.getElementsByClassName('PdwC2 fXiEu s2MYR');
 var sequence = document.getElementsByClassName('Ckrof');
 var next = document.getElementsByClassName('coreSpriteRightChevron')[0];
